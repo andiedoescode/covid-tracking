@@ -1,4 +1,4 @@
-# COVID-19 tracker
+# COVID-19 Live Data
 Presenting real time data of global and country-specific (for Canada and the United States) COVID-19 deaths and confirmed cases.
 
 **Link to project:** [https://covid-liveview.netlify.app/](https://covid-liveview.netlify.app/)
