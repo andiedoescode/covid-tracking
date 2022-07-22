@@ -3,7 +3,7 @@ Presenting real time data of global and country-specific (for Canada and the Uni
 
 **Link to project:** [https://covid-liveview.netlify.app/](https://covid-liveview.netlify.app/)
 
-![Screenshot](https://user-images.githubusercontent.com/98671035/180325222-96f44294-13e2-4814-bcc9-04ecb618b9c4.png)
+![Screenshot](https://github.com/andiedoescode/covid-tracking/blob/main/screenshot.png)
 
 ## How It's Made:
 
